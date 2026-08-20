@@ -28,6 +28,7 @@
 
 ### 📊 GitHub Stats
 
-![Summary](https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/0-profile-details.svg)
-
-![Top Languages](https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/2-most-commit-language.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="48%" />
+</p>
