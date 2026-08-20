@@ -28,6 +28,6 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YU-TechnicalDepartment&show_icons=true)
+![Summary](https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/0-profile-details.svg)
 
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YU-TechnicalDepartment&layout=compact)
+![Top Languages](https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/main/profile-summary-card-output/radical/2-most-commit-language.svg)
