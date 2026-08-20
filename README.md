@@ -21,7 +21,7 @@
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/YU-TechnicalDepartment/YU-TechnicalDepartment/output/github-contribution-grid-snake.svg)
 
 ---
